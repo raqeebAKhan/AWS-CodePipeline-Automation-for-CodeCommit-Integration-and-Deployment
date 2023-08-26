@@ -1,4 +1,4 @@
-# AWS CodePipeline Automation for CodeCommit Integration and Deployment
+# AWS_CodePipeline_Automation_for_CodeCommit_Integration_and_Deployment
 
 This project demonstrates the implementation of a CI/CD pipeline using various AWS DevOps tools. The goal is to showcase the automation of code integration, build processes, deployment, artifact management, and version control to enhance development workflows.
 
